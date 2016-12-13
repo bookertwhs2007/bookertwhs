@@ -9,6 +9,7 @@ body {
 
 // settings - used with preprocessors and contain font, colors definitions, etc.
 @import "settings/colors";
+@import "settings/typography";
 
 // tools - globally used mixins and functions. It’s important not to output any
 // CSS in the first 2 layers.
