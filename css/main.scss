@@ -28,6 +28,7 @@ body {
 // components - specific UI components. This is where majority of our work takes
 // place and our UI components are often composed of Objects and Components.
 @import "components/header";
+@import "components/footer";
 @import "components/section";
 
 // trumps - utilities and helper classes with ability to override anything which
