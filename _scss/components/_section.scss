@@ -4,8 +4,15 @@
   background-color: $white;
 }
 
+.section__title {
+  display: inline-block;
+  border-bottom: 3px solid;
+  padding: 0 0 5px 0;
+}
+
 .section--image {
   padding: 0;
+  font-size: 0;
 }
 
 .section__image {
