@@ -1,6 +1,7 @@
 window.onload = function() {
   var app = new App();
   app.initialize();
+  smoothScroll.init();
 };
 
 function App() {
