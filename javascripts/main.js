@@ -18,14 +18,22 @@ function App() {
      */
     cacheUI: function() {
       this.navBtn = document.getElementById('navBtn');
+      this.nav = document.getElementById('nav');
     },
 
+    /**
+     * Add event listeners
+     */
     addEventListeners: function() {
-      this.navBtn.addEventListener('click', this.onNavBtnClick);
+      this.navBtn.addEventListener('click', this.onNavBtnClick.bind(this));
     },
 
+    /**
+     * Nav button click handler
+     * @param  {Event} evt click event
+     */
     onNavBtnClick: function(evt) {
-      console.log('click');
+      this.nav.classList.toggle('nav--open');
     }
   };
 }
