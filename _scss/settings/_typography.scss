@@ -7,10 +7,22 @@ h1, h2, h3, h4, p {
   opacity: 0.85;
 }
 
-h1 {}
+h1 {
+  margin: 0 0 20px 0;
+}
 
-h2 {}
+h2 {
+  margin: 0 0 15px 0;
+}
 
-h3 {}
+h3 {
+  margin: 0 0 10px 0;
+}
 
-h4 {}
+h4 {
+  margin: 0 0 5px 0;
+}
+
+p {
+  margin: 0 0 5px 0;
+}

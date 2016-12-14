@@ -1,12 +1,27 @@
 $small: 500px;
 
-.header {
-  background-color: $blue;
-  height: 60px;
-  position: relative;
+$header-height-small: 60px;
+$header-height-large: 88px;
+
+body {
+  padding-top: $header-height-small;
 
   @media (min-width: $small) {
-    height: auto;
+    padding-top: $header-height-large;
+  }
+}
+
+.header {
+  background-color: $blue;
+  height: $header-height-small;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9;
+
+  @media (min-width: $small) {
+    height: $header-height-large;
     padding: 25px 0;
   }
 }
