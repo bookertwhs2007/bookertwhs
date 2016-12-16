@@ -18,6 +18,7 @@ function App() {
      * Cache UI elements
      */
     cacheUI: function() {
+      this.body = document.getElementsByTagName('body')[0];
       this.navBtn = document.getElementById('navBtn');
       this.nav = document.getElementById('nav');
     },
@@ -26,7 +27,14 @@ function App() {
      * Add event listeners
      */
     addEventListeners: function() {
-      this.navBtn.addEventListener('click', this.onNavBtnClick.bind(this));
+      this.body.addEventListener('click', function(evt) {
+        var target = evt.target;
+
+        // Nav button click handler
+        if (target.id === 'navBtn') {
+          this.onNavBtnClick();
+        }
+      }.bind(this));
     },
 
     /**
