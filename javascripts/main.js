@@ -31,9 +31,9 @@ function App() {
         var target = evt.target;
 
         // Nav button click handler
-        if (target.id === 'navBtn') {
-          this.onNavBtnClick();
-        }
+        if (target.id === 'navBtn') this.onNavBtnClick();
+        // Nav link click handler
+        else if (target.classList.contains('nav__link')) this.onMobileNavLinkClick();
       }.bind(this));
     },
 
@@ -43,6 +43,10 @@ function App() {
      */
     onNavBtnClick: function(evt) {
       this.nav.classList.toggle('nav--open');
+    },
+
+    onMobileNavLinkClick: function() {
+      this.nav.classList.toggle('nav--open', false);
     }
   };
 }
