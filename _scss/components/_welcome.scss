@@ -12,8 +12,7 @@
   }
 }
 
-.logo {
-  display: block;
+.logo__wrapper {
   width: 80%;
   margin: 0 auto 25px auto;
 
@@ -21,4 +20,8 @@
     flex: 1 1 25%;
     margin: 0 25px 0 0;
   }
+}
+
+.logo {
+  display: block;
 }
