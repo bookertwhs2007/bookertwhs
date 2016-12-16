@@ -45,6 +45,9 @@ function App() {
       this.nav.classList.toggle('nav--open');
     },
 
+    /**
+     * Nav link click handler
+     */
     onMobileNavLinkClick: function() {
       this.nav.classList.toggle('nav--open', false);
     }
