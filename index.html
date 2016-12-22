@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<section class="welcome section" id="home">
+<!-- <section class="welcome section" id="home">
   <div class="container">
     <div class="logo__wrapper">
       <img class="logo" src="images/wildcat-svg.svg" alt="Washington Wildcat Logo">
@@ -112,4 +112,13 @@ layout: home
     <p>Also think we should upload the PDFs.</p>
     <p>Can we add a paypal link with "purchase" option for whichever level they choose?</p>
   </div>
-</section>
+</section> -->
+
+
+{% for section in site.sections %}
+  <section class="section section--{{ section['class'] }}">
+    <div class="container">
+      {{ section.content }}
+    </div>
+  </section>
+{% endfor %}
