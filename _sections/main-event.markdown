@@ -1,7 +1,7 @@
 ---
 title: Main Event
 date: 2016-12-22 04:20:00 Z
-id: main-event
+class: main-event
 ---
 
 ## 10-year reunion
