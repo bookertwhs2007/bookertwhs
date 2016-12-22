@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2016-12-22 04:18:00 Z
-Field name: id=home
+id: home
 ---
 
 # Booker T. Washington High School
