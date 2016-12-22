@@ -1,5 +1,5 @@
 ---
-title: Main Event
+title: main-event
 date: 2016-12-22 04:20:00 Z
 ---
 
