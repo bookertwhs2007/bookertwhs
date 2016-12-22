@@ -7,10 +7,11 @@ class: main-event
 ## 10-year reunion
 
 **When?**
-Saturday, May 13
-6-10 p.m.
+Saturday, May 13 6-10 p.m.
+
 **Where?**
 Phinneas Phoggs - Seville Quarter
+
 **What?**
 Dinner & drinks (need to determine cost of drinks so we know how many we will be able to offer)
 
