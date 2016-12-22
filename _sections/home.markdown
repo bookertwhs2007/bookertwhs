@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2016-12-22 04:18:00 Z
-id: home
+class: home
 ---
 
 # Booker T. Washington High School
