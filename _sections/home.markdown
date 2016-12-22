@@ -1,5 +1,5 @@
 ---
-title: Home
+title: home
 date: 2016-12-22 04:18:00 Z
 ---
 
