@@ -10,5 +10,3 @@ class: home
 ## Class of 2007
 
 Welcome! This site is your resource for information on the greatest class to come out of Booker T. Washington High School.
-
-Testing 1, 2, 3...
