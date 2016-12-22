@@ -1,0 +1,17 @@
+.section--rsvp {
+  p {
+    @media (min-width: $small-media) {
+      display: flex;
+    }
+  }
+
+  strong {
+    display: block;
+
+    @media (min-width: $small-media) {
+      flex: 0 0 320px;
+      text-align: right;
+      padding-right: 10px;
+    }
+  }
+}

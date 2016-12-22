@@ -8,37 +8,24 @@ h1, h2, h3, h4, p {
 }
 
 h1 {
-  margin: 0 0 20px 0;
+  margin: 20px 0;
 }
 
 h2 {
-  margin: 0 0 15px 0;
+  margin: 20px 0;
+  text-align: center;
+  text-decoration: underline;
 }
 
 h3 {
-  margin: 0 0 10px 0;
-}
-
-h4 {
-  margin: 0 0 5px 0;
+  margin: 20px 0;
+  text-align: center;
 }
 
 p {
-  margin: 0 0 5px 0;
+  margin: 15px 0;
 }
 
 a {
   color: $blue;
-}
-
-.bold {
-  font-weight: bold;
-}
-
-.secondary {
-  opacity: 0.5;
-}
-
-.center-text {
-  text-align: center;
 }
