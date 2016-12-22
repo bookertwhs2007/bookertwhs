@@ -19,4 +19,5 @@ $50 per person
 $60 per person
 
 
-### DEADLINE TO RSVP IS APRIL 30! [Please fill out the RSVP form here](https://docs.google.com/forms/d/e/1FAIpQLScq25zgb1W7tywR07IzCfnkXQijtyeBlukhd6kkKx23QqVJ0w/viewform).
+### DEADLINE TO RSVP IS APRIL 30!
+### [Please fill out the RSVP form here](https://docs.google.com/forms/d/e/1FAIpQLScq25zgb1W7tywR07IzCfnkXQijtyeBlukhd6kkKx23QqVJ0w/viewform).
