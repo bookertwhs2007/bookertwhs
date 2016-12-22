@@ -2,21 +2,13 @@
   <button class="nav__btn fa fa-bars" id="navBtn">Toggle Menu</button>
   <nav class="nav container" id="nav">
     <ul class="nav__list">
-      <li class="nav__item">
-        <a class="nav__link" href="#home" data-scroll>Home</a>
-      </li>
-      <li class="nav__item">
-        <a class="nav__link" href="#main-event" data-scroll>Main Event</a>
-      </li>
-      <li class="nav__item">
-        <a class="nav__link" href="#rsvp" data-scroll>RSVP</a>
-      </li>
-      <li class="nav__item">
-        <a class="nav__link" href="#additional-info" data-scroll>Additional Info</a>
-      </li>
-      <li class="nav__item">
-        <a class="nav__link" href="#sponsorships" data-scroll>Sponsorships</a>
-      </li>
+      {% for section in site.sections %}
+        <li class="nav__item">
+          <a class="nav__link" href="#{{ section['class'] }}" data-scroll>
+            {{ section.title }}
+          </a>
+        </li>
+      {% endfor %}
     </ul>
   </nav>
 </header>

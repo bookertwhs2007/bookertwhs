@@ -116,7 +116,7 @@ layout: home
 
 
 {% for section in site.sections %}
-  <section class="section section--{{ section['class'] }}">
+  <section class="section section--{{ section.class }}" id="{{ section.class }}">
     <div class="container">
       {{ section.content }}
     </div>
