@@ -1,19 +1,19 @@
 ---
-title: Main Event
+title: Events
 date: 2016-12-22 04:20:00 Z
 position: 1
 class: main-event
 ---
 
-## 10-year reunion
+## 10-Year Reunion!
 
 **When?**
 Saturday, May 13 6-10 p.m.
 
 **Where?**
-Phinneas Phoggs - Seville Quarter
+Phineas Phogg's - Seville Quarter
 
 **What?**
-Dinner & drinks (need to determine cost of drinks so we know how many we will be able to offer)
+Heavy hor d'oeuvres
 
-### Photo slide show - submit photos to [bookertwhs.2007@gmail.com](bookertwhs.2007@gmail.com)
+### Submit your then & now photos to have them included in our slideshow! [bookertwhs.2007@gmail.com](bookertwhs.2007@gmail.com)
