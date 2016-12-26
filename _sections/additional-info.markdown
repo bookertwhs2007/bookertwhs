@@ -32,6 +32,6 @@ class: additional-info
   * Address: 1144 Airport Blvd. Pensacola, FL
   * Date: 3/12/17																				
 
-Visit https://app.hiskipper.com/reservations/group/d26f6cee-5856-4f92-b07f-0664690e1f99/hotels?resource_key=xSfbK9Gvoq) for more information.
+Visit (https://app.hiskipper.com/reservations/group/d26f6cee-5856-4f92-b07f-0664690e1f99/hotels?resource_key=xSfbK9Gvoq) for more information.
 																	
 		
