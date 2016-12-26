@@ -8,7 +8,9 @@ class: main-event
 ## 10-Year Reunion!
 
 **Friday, May 12**
-Join us for a bar crawl downtown! We're teaming up with various bars/restaurants to offer discounts just for our class. Stay tuned for more details! <br> <i>(If you work at a place downtown and would be willing to offer a discount as part of our bar crawl, please email us at bookertwhs.2007@gmail.com!)</i>
+Join us for a bar crawl downtown! We're teaming up with various bars/restaurants to offer discounts just for our class. Stay tuned for more details! 
+
+<i>(If you work at a place downtown and would be willing to offer a discount as part of our bar crawl, please email us at bookertwhs.2007@gmail.com!)</i>
 
 **Saturday, May 13**
 During the day, head to the beach or hit up some of the new restaurants or bars that have opened recently. We may offer a photo scavenger hunt with prizes, as well. Stay tuned for more details!
