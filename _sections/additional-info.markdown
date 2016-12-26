@@ -7,7 +7,7 @@ class: additional-info
 
 ## Hotel Discounts
 
-**Ashton Inn & Suites**	
+* Ashton Inn & Suites
 * Room Options & Pricing: $89, 2 queen or $85, 1 queen	
 * Booking Method: 850-455-4561	
 * Booking Code: 68496	
