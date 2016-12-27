@@ -7,6 +7,8 @@ class: sponsorships
 
 ## Sponsorships
 
+We have numerous sponsorship opportunities available, or we'd be willing to customize something for you/your business. Contact us for more information!
+
 [https://www.paypal.me/bookertwhs2007](https://www.paypal.me/bookertwhs2007)
 
 [https://venmo.com/bookertwhs2007](https://venmo.com/bookertwhs2007)
