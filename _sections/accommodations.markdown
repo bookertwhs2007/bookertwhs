@@ -9,7 +9,7 @@ class: additional-info
 
 * **Ashton Inn & Suites**
   * Options: 2 Queen/$89 or 1 Queen/$85	
-  * Number: 850-455-4561	
+  * Number: 850-455-4561
   * Booking Code: 68496	
   * Contact: Ron Harper
   * Address: 910 North Navy Blvd. Pensacola, FL	
