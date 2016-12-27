@@ -5,7 +5,7 @@ position: 3
 class: additional-info
 ---
 
-## Hotel Discounts
+## Hotel Discounts!
 
 * **Ashton Inn & Suites**
   * Options: 2 Queen/$89 or 1 Queen/$85	
