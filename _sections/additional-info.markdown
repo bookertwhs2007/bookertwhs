@@ -16,6 +16,7 @@ class: additional-info
   * Deadline: 4/28/17
   * Amenities: free wifi, free parking, grab&go breakfast														
 
+
 * **TownePlace Suites by Marriott Pensacola**
   * Options: 2 Queen/$119 or Queen+Sofa Bed/$169
   * Number: 866-236-2427	
@@ -24,10 +25,11 @@ class: additional-info
   * Deadline: 4/21/17
   * Amenities: free internet, free parking, continental breakfast, pool	
 
+
 * **Hilton Garden Inn Pensacola Airport**
   * Options: 2 Queen/$139 or King/$139
   * Number: 850-479-8900
-  * Code: WAS	
+  * Booking Code: WAS	
   * Contact: Amanda Mills
   * Address: 1144 Airport Blvd. Pensacola, FL
   * Date: 3/12/17
