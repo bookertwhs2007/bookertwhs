@@ -1,7 +1,7 @@
 ---
 title: Accommodations
 date: 2016-12-26 22:25:00 -06:00
-position: 3
+position: 4
 class: additional-info
 ---
 
