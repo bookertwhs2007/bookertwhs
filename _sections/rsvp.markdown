@@ -1,6 +1,6 @@
 ---
 title: RSVP
-date: 2016-12-22 04:26:00 Z
+date: 2016-12-21 22:26:00 -06:00
 position: 2
 class: rsvp
 ---

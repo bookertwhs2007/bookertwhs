@@ -1,6 +1,6 @@
 ---
 title: Booker T. Washington High School Class of 2007
-timezone: UTC
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -14,8 +14,8 @@ collections:
 email: bookertwhs.2007@gmail.com
 description: Booker T. Washington Class of 2007. Information regarding reunions, meetups,
   and going ons of our class.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 markdown: kramdown
 gems:
 - jekyll-feed
