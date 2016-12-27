@@ -9,5 +9,4 @@ class: sponsorships
 
 [https://www.paypal.me/bookertwhs2007](https://www.paypal.me/bookertwhs2007)
 
-[https://venmo.com/bookertwhs2007]
-(https://venmo.com/bookertwhs2007)
+[https://venmo.com/bookertwhs2007](https://venmo.com/bookertwhs2007)
