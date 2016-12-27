@@ -8,7 +8,7 @@ layout: default
 ## Brought to you by...
 
 **President**
-Sarah Halstead Camperlino
+Sarah Halstead Camperlino 
 
 **Vice President**
 Walker Wilson
