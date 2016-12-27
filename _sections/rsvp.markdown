@@ -7,8 +7,6 @@ class: rsvp
 
 ## RSVP
 
-### Pricing
-
 **Early-bird registration through January 31**
 $40 per person
 
