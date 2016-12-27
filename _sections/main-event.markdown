@@ -1,7 +1,7 @@
 ---
 title: Events
 date: 2016-12-21 22:20:00 -06:00
-position: 2
+position: 1
 class: main-event
 ---
 
