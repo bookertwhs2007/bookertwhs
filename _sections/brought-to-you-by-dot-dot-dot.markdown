@@ -4,7 +4,7 @@ date: 2016-12-25 21:03:00 -06:00
 position: 5
 ---
 
-President              Sarah Halstead Camperlino
+President              Sarah Halstead Camperlino 
 Vice President	       Walker Wilson
 Secretary	       Lindsey Horan
 Treasurer	       Hannah Campbell
