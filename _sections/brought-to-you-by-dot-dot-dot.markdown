@@ -2,6 +2,7 @@
 title: Brought to you by...
 date: 2016-12-25 21:03:00 -06:00
 position: 5
+layout: default
 ---
 
 ## Brought to you by...
