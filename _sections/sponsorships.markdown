@@ -7,7 +7,7 @@ class: sponsorships
 
 ## Sponsorships
 
-We have numerous sponsorship opportunities available. We'd also be willing to customize something for you/your business. Contact us for more information!
+We have numerous sponsorship opportunities available. We'd also be willing to customize something for you/your business. Contact us or see the attached documents for more information!
 
 ### To Pay:
 [https://www.paypal.me/bookertwhs2007](https://www.paypal.me/bookertwhs2007)
