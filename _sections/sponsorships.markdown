@@ -9,7 +9,7 @@ class: sponsorships
 
 We have numerous sponsorship opportunities available. We'd also be willing to customize something for you/your business. Contact us or see the attached documents for more information!
 
-bookertwhs2007.com/uploads/CO%202007%20Sponsorship%20Letter.pdf
+www.bookertwhs2007.com/uploads/CO%202007%20Sponsorship%20Letter.pdf
 
 
 ### To Pay:
