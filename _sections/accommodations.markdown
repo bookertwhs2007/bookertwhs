@@ -2,7 +2,7 @@
 title: Accommodations
 date: 2016-12-26 22:25:00 -06:00
 position: 3
-class: additional-info
+class: accommodations
 ---
 
 ## Hotel Discounts
