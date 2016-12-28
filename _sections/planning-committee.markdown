@@ -1,11 +1,11 @@
 ---
-title: Credits
+title: Planning Committee
 date: 2016-12-27 12:37:00 -06:00
 position: 5
 class: planning-committee
 ---
 
-## Credits
+## Planning Committee
 
 **President**
 Sarah Halstead Camperlino
