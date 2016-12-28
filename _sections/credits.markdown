@@ -5,7 +5,7 @@ position: 5
 class: credits
 ---
 
-### Credits
+## Credits
 
 **President**
 Sarah Halstead Camperlino
