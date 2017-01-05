@@ -5,4 +5,6 @@ position: 3
 class: attire
 ---
 
+## Attire
+
 The attire for Saturday Night will be dressy-casual. 
