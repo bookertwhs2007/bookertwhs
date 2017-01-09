@@ -14,10 +14,10 @@ Sarah Halstead Camperlino
 Walker Wilson
 
 **Secretary**
-Lindsey Horan
+Hannah Campbell
 
 **Treasurer**
-Hannah Campbell
+Lindsey Horan
 
 **Entertainment**
 April Johnson Wyman
