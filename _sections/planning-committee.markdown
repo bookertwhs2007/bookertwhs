@@ -36,8 +36,6 @@ Zack Piper
 **Slide Show**
 Jon Pulaski & Bruce Langford 
 
-## Sponsors
+## Cool Cat Sponsors
 
-**Cool Cat Sponsors**
-Bayou Chiropractic
 ![Bayou Chiropractic 3.png](/uploads/Bayou%20Chiropractic%203.png)
