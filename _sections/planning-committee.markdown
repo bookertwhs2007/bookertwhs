@@ -40,4 +40,4 @@ Jon Pulaski & Bruce Langford
 
 **Cool Cat Sponsors**
 Bayou Chiropractic
-![Bayou Chiropractic.png](/uploads/Bayou%20Chiropractic.png)
+![Bayou Chiropractic 2.png](/uploads/Bayou%20Chiropractic%202.png)
