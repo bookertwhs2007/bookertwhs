@@ -7,4 +7,4 @@ class: attire
 
 ## What to Wear
 
-The attire for Saturday Night will be dressy-casual. 
+The attire for Saturday Night will be dressy-casual.
