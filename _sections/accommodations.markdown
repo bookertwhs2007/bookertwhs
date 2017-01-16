@@ -1,7 +1,7 @@
 ---
 title: Where to Stay
 date: 2016-12-26 22:25:00 -06:00
-position: 5
+position: 4
 class: accommodations
 ---
 
