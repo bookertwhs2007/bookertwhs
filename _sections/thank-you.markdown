@@ -7,7 +7,7 @@ class: thank-you
 
 ## Thank You!
 
-Thank you to all of the people who helped make this reunion possible! 
+Thank you to all of the people who helped make this reunion possible!
 
 **President**
 Sarah Halstead Camperlino
