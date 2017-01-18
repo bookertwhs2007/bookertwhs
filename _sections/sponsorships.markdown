@@ -1,7 +1,7 @@
 ---
 title: Sponsorships
 date: 2016-12-21 22:56:00 -06:00
-position: 3
+position: 6
 class: sponsorships
 ---
 
