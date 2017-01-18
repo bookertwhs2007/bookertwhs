@@ -4,7 +4,8 @@ layout: home
 
 <img class="hero" src="{{ site.url }}/images/btwhs_class_photo.jpg" alt="Booker T. Washington High School 2007">
 
-{% for section in site.sections %}
+{% assign items = site.sections | sort: 'position' %}
+{% for section in items %}
   <section class="section section--{{ section.class }}" id="{{ section.class }}">
     <div class="container">
       {{ section.content }}

@@ -2,7 +2,8 @@
   <button class="nav__btn fa fa-bars" id="navBtn">Toggle Menu</button>
   <nav class="nav container" id="nav">
     <ul class="nav__list">
-      {% for section in site.sections %}
+      {% assign items = site.sections | sort: 'position' %}
+      {% for section in items %}
         <li class="nav__item">
           <a class="nav__link" href="#{{ section['class'] }}" data-scroll>
             {{ section.title }}
