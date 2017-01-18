@@ -1,7 +1,7 @@
 ---
 title: Thank You!
 date: 2016-12-27 12:37:00 -06:00
-position: 6
+position: 5
 class: thank-you
 ---
 
