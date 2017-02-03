@@ -9,9 +9,6 @@ class: rsvp
 
 [Please fill out the RSVP form here](https://docs.google.com/forms/d/e/1FAIpQLScq25zgb1W7tywR07IzCfnkXQijtyeBlukhd6kkKx23QqVJ0w/viewform).
 
-**Early-bird registration through January 31**
-$40 per person
-
 **Standard registration through March 31**
 $50 per person 
 
