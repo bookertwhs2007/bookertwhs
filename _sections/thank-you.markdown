@@ -9,32 +9,32 @@ class: thank-you
 
 Thank you to all of the people who helped make this reunion possible!
 
-**President**
-Sarah Halstead Camperlino
+**Logistics**
+Sarah Halstead Camperlino & Walker Wilson
 
-**Vice President**
-Walker Wilson
-
-**Secretary**
+**Snap Chat Filter & Decorations**
 Hannah Campbell
 
-**Treasurer**
+**Decorations**
+Chuntell Patterson
+
+**DJ**
 Lindsey Horan
 
-**Entertainment**
+**Photo Booth & Koozies**
 April Johnson Wyman
 
-**Decorations**
-Ashley Moore Hooper & Corrie Schweigert Lail
+**Venue**
+Ashley Moore Hooper
 
-**Logistics**
+**Name Tags**
 Claire Meharg
 
 **Technology & Design**
 Zack Piper
 
 **Slide Show**
-Jon Pulaski & Bruce Langford 
+Bruce Langford 
 
 
 ## Cool Cat Sponsors
