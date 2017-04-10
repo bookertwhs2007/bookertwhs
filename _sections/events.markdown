@@ -20,7 +20,7 @@ We'll take over Phineas Phogg's (a.k.a. The Boom Boom Room) at Seville Quarter f
 
 PLEASE NOTE: One date per classmate may attend. Those who did not graduate with the BTWHS class of 2007 are allowed to attend, but they must be registered as the date of a classmate. Children and others under 18 are not permitted at this event.
 
-### Submit your then & now photos to have them included in our slideshow... Just email them to us at <bookertwhs.2007@gmail.com> by March 31!
+### Submit your then & now photos to have them included in our slideshow... Just email them to us at <bookertwhs.2007@gmail.com> by April 30!
 
 **Sunday, May 14**
 We chose this weekend so out-of-towners will be home to spend time with their families on Mother's Day, if they so choose! :)
