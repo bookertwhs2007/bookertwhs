@@ -18,7 +18,7 @@ Hannah Campbell
 **Decorations**
 Chuntell Patterson
 
-**DJ**
+**Music**
 Lindsey Horan
 
 **Photo Booth & Koozies**
@@ -34,9 +34,11 @@ Claire Meharg
 Zack Piper
 
 **Slide Show**
-Bruce Langford 
+Bruce Langford & Jon Pulaski
 
 
 ## Cool Cat Sponsors
 
 ![Bayou Chiropractic 3.png](/uploads/Bayou%20Chiropractic%203.png)
+
+![10448394_320879148061944_4865778206497461769_o.jpg](/uploads/10448394_320879148061944_4865778206497461769_o.jpg)
