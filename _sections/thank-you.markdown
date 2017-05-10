@@ -39,3 +39,5 @@ Joy & Dave Jackson (Sarah Halstead Camperlino's parents)
 ![Bayou Chiropractic 3.png](/uploads/Bayou%20Chiropractic%203.png)
 
 ![10448394_320879148061944_4865778206497461769_o.jpg](/uploads/10448394_320879148061944_4865778206497461769_o.jpg)
+
+![Paint-Mart-logo-1.png](/uploads/Paint-Mart-logo-1.png)
