@@ -12,23 +12,17 @@ Thank you to all of the people who helped make this reunion possible!
 **Logistics**
 Sarah Halstead Camperlino & Walker Wilson
 
-**Snap Chat Filter & Decorations**
-Hannah Campbell
-
 **Decorations**
-Chuntell Patterson
+Chuntell Patterson & April Johnson Wyman
 
 **Music**
 Lindsey Horan
 
-**Photo Booth & Koozies**
-April Johnson Wyman
+**Entertainment**
+April Johnson Wyman & Lacy Muzzy
 
 **Venue**
 Ashley Moore Hooper
-
-**Name Tags**
-Claire Meharg
 
 **Technology & Design**
 Zack Piper
@@ -36,6 +30,11 @@ Zack Piper
 **Slide Show**
 Bruce Langford & Jon Pulaski
 
+**Others Who've Helped Out**
+Claire Meharg
+Corrie Schweigert
+Greg & Lynn Schweigert (Corrie Schweigert Lail's parents)
+Joy & Dave Jackson (Sarah Halstead Camperlino's parents)
 
 ## Cool Cat Sponsors
 
