@@ -31,9 +31,7 @@ Zack Piper
 Bruce Langford & Jon Pulaski
 
 **Others Who've Helped Out**
-Claire Meharg
-Corrie Schweigert
-Greg & Lynn Schweigert (Corrie Schweigert Lail's parents)
+Claire Meharg, Corrie Schweigert Lail, Greg & Lynn Schweigert (Corrie Schweigert Lail's parents) and 
 Joy & Dave Jackson (Sarah Halstead Camperlino's parents)
 
 ## Cool Cat Sponsors
